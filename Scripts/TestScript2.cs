@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Test2 : MonoBehaviour
+public class TestScript2 : MonoBehaviour
 {
     void Start()
     {
