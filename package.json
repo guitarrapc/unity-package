@@ -1,9 +1,7 @@
 {
   "name": "upm.test",
-  "dependencies": {
-    "tv.monry.upm.dependent": "https://github.com/guitarrapc/upm-dependency#0.0.1"
-  },
-  "version": "1.0.0",
+  "dependencies": {},
+  "version": "0.0.1",
   "unity": "2018.3",
   "displayName": "upm test dayo!",
   "description": "",
