@@ -1,0 +1,14 @@
+{
+  "name": "upm.test",
+  "dependencies": {
+    "tv.monry.upm.dependent": "https://github.com/guitarrapc/unity-package"
+  },
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "displayName": "upm test dayo!",
+  "description": "",
+  "keywords": [
+    "unity"
+  ],
+  "readme": "this is test message"
+}
