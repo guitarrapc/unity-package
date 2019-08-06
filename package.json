@@ -9,7 +9,7 @@
   ],
   "category": "",
   "dependencies": {
-    "com.guitarrapc.upm.dependency": "1.0.4"
+    "com.guitarrapc.upm.dependency": "~1.0.4"
   },
   "author": {
     "name": "guitarrapc",
