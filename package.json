@@ -1,23 +1,16 @@
 {
   "name": "com.guitarrapc.upm.test",
   "displayName": "Test Unity Package",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "unity": "2018.3",
-  "description": "",
+  "description": "this is test message",
   "keywords": [
     "unity"
   ],
   "category": "",
   "dependencies": {
-    "com.guitarrapc.upm.dependency": "1.0.2"
+    "com.guitarrapc.upm.dependency": "1.0.3"
   },
-  "files": [
-    "package.json",
-    "package.json.meta",
-    "Scripts.meta",
-    "Scripts/"
-  ],
-  "readme": "this is test message",
   "author": {
     "name": "guitarrapc",
     "url": "https://github.com/guitarrapc"
