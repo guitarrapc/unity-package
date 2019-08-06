@@ -1,7 +1,7 @@
 {
   "name": "com.guitarrapc.upm.test",
   "displayName": "Test Unity Package",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "unity": "2018.3",
   "description": "this is test message",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "category": "",
   "dependencies": {
-    "com.guitarrapc.upm.dependency": "1.0.3"
+    "com.guitarrapc.upm.dependency": "1.0.4"
   },
   "author": {
     "name": "guitarrapc",
